@@ -1,0 +1,14 @@
+[gd_scene format=2]
+
+[node name="BarsGui2" type="MarginContainer"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="Bars2" type="VBoxContainer" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
